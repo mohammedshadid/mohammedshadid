@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mohammed Shadid 👋
 
-<!--
-**mohammedshadid/mohammedshadid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MBA in AI & Business Analytics  
+📊 Aspiring Data Analyst | Future Data Scientist  
+📍 Based in Dubai  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python (Pandas, Matplotlib)
+- SQL
+- Power BI
+- Data Analysis
+- Machine Learning
+
+---
+
+## 📂 Featured Projects
+🔹 [Data Analytics Portfolio](https://github.com/mohammedshadid/Data-Analytics-Projects)
+
+---
+
+## 📈 What I Do
+I analyze data to uncover insights, build dashboards, and develop models that solve real-world business problems.
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (add later)
