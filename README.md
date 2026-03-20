@@ -29,4 +29,4 @@ I analyze data to uncover insights, build dashboards, and develop models that so
 ---
 
 ##  Connect With Me
-- LinkedIn:
+- LinkedIn: https://www.linkedin.com/in/mohammed-shadid-71b55a39b/
