@@ -1,29 +1,32 @@
 # Hi, I'm Mohammed Shadid 👋
 
-🎓 MBA in AI & Business Analytics  
-📊 Aspiring Data Analyst | Future Data Scientist  
-📍 Based in Dubai  
+ MBA in AI & Business Analytics  
+ Data Analyst | Power BI | SQL | Pthon | Machine Learning 
+ Based in Dubai
+
+ Building end-to-end data projects from analysis to deployment
 
 ---
 
-## 🚀 Skills
-- Python (Pandas, Matplotlib)
-- SQL
-- Power BI
-- Data Analysis
-- Machine Learning
+##  Key Skills:
+- Data Analysis (Python, Pandas)
+- SQL (Data Extraction & Queries)
+- Power BI (Dashboards & Visualization)
+- Machine Learning (Scikit-learn)
 
 ---
 
-## 📂 Featured Projects
-🔹 [Data Analytics Portfolio](https://github.com/mohammedshadid/Data-Analytics-Projects)
+##  Featured Projects
+
+-  [Data Analytics Portfolio](https://github.com/mohammedshadid/Data-Analytics-Projects)
+-  [Customer Churn Prediction Project](https://github.com/mohammedshadid/customer-churn-analysis)
 
 ---
 
-## 📈 What I Do
+##  What I Do
 I analyze data to uncover insights, build dashboards, and develop models that solve real-world business problems.
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: (add later)
+##  Connect With Me
+- LinkedIn:
