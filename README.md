@@ -1,4 +1,4 @@
-# Hi, I'm Mohammed Shadid 👋
+# Hi, I'm Mohammed Shadid
 
  MBA in AI & Business Analytics  
  Data Analyst | Power BI | SQL | Pthon | Machine Learning 
