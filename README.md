@@ -33,3 +33,6 @@ I analyze data to uncover insights, build dashboards, and develop models that so
 
 ##  Connect With Me
 - LinkedIn: https://www.linkedin.com/in/mohammed-shadid-71b55a39b/
+
+https://chatgpt.com/g/
+g-69c2e008f9288191ada3c99f5a707133-eventx-ai-assistant
