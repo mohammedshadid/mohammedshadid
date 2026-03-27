@@ -19,7 +19,7 @@
 ##  Featured Projects
 
 -  [Data Analytics Portfolio](https://github.com/mohammedshadid/Data-Analytics-Projects)
--  [Customer Churn Prediction Project](https://github.com/mohammedshadid/customer-churn-analysis)
+-  [Customer Churn Analysis Project](https://github.com/mohammedshadid/customer-churn-analysis)
 
 ## Live App
 - https://customer-churn-analysis-jo8bhwxbkrcapsv54lgtsr.streamlit.app
