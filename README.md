@@ -29,7 +29,7 @@
 ---
 
 ##  What I Do
-I analyze data to uncover insights, build dashboards, and develop models that solve real-world business problems.
+I combine AI, data analytics, and business strategy to design solutions that improve performance, optimize decisions, and create real business value.
 
 ---
 
