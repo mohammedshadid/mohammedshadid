@@ -22,6 +22,7 @@
 -  [Customer Churn Analysis Project](https://github.com/mohammedshadid/customer-churn-analysis)
 -  [Credit Risk Prediction ML](https://github.com/mohammedshadid/Credit-Risk-Prediction)
 -  [Customer Churn Prediction](https://github.com/mohammedshadid/Customer-Churn-Prediction)
+-  [AI Energy Optimization Dashboard](https://github.com/mohammedshadid/AI-Energy-Optimization-Dashboard)
 
 ## Live App
 - https://customer-churn-analysis-jo8bhwxbkrcapsv54lgtsr.streamlit.app
