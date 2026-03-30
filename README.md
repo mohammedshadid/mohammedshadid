@@ -24,6 +24,7 @@
 -  [Customer Churn Prediction](https://github.com/mohammedshadid/Customer-Churn-Prediction)
 -  [AI Energy Optimization Dashboard](https://github.com/mohammedshadid/AI-Energy-Optimization-Dashboard)
 -  [AI Predictive Maintenance](https://github.com/mohammedshadid/AI-Predictive-Maintenance)
+-  [AI Executive Decision Intelligence Dashboard](https://github.com/mohammedshadid/AI-Executive-Decision-Intelligence-Dashboard)
 
 ## Live App
 - https://customer-churn-analysis-jo8bhwxbkrcapsv54lgtsr.streamlit.app
