@@ -25,6 +25,7 @@
 -  [AI Energy Optimization Dashboard](https://github.com/mohammedshadid/AI-Energy-Optimization-Dashboard)
 -  [AI Predictive Maintenance](https://github.com/mohammedshadid/AI-Predictive-Maintenance)
 -  [AI Executive Decision Intelligence Dashboard](https://github.com/mohammedshadid/AI-Executive-Decision-Intelligence-Dashboard)
+-  [AI Financial Decision Intelligence System](https://github.com/mohammedshadid/AI-Financial-Decision-Intelligence-System)
 
 ## Live App
 - https://customer-churn-analysis-jo8bhwxbkrcapsv54lgtsr.streamlit.app
